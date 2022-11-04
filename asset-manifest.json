@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cooking/static/css/main.08ebb114.chunk.css",
+    "main.js": "/cooking/static/js/main.e7f10fcc.chunk.js",
+    "main.js.map": "/cooking/static/js/main.e7f10fcc.chunk.js.map",
+    "runtime-main.js": "/cooking/static/js/runtime-main.00d7a068.js",
+    "runtime-main.js.map": "/cooking/static/js/runtime-main.00d7a068.js.map",
+    "static/js/2.14ec5ca6.chunk.js": "/cooking/static/js/2.14ec5ca6.chunk.js",
+    "static/js/2.14ec5ca6.chunk.js.map": "/cooking/static/js/2.14ec5ca6.chunk.js.map",
+    "index.html": "/cooking/index.html",
+    "static/css/main.08ebb114.chunk.css.map": "/cooking/static/css/main.08ebb114.chunk.css.map",
+    "static/js/2.14ec5ca6.chunk.js.LICENSE.txt": "/cooking/static/js/2.14ec5ca6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00d7a068.js",
+    "static/js/2.14ec5ca6.chunk.js",
+    "static/css/main.08ebb114.chunk.css",
+    "static/js/main.e7f10fcc.chunk.js"
+  ]
+}
